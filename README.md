@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AiswariyaShaji
-- 👀 Interested in Front-End development as well as python coding.
+- 👀 Interested in Web Development.
 - 🌱 Currently learning Python Django
 - 💞️ Looking to collaborate on open source projects
 - 📫 Reach me on aiswariyashaji123@gmail.com
